@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhruvsinghdk
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m currently doing an internship @kultureHire
 - 📫 How to reach me dksingh3408@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: like travelling
